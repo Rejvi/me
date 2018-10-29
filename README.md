@@ -1,1 +1,1 @@
-#Laravel Role Management System With Route Permission Package
+#Laravel Role Management Package (Route wise Permission) 
